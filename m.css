@@ -84,6 +84,41 @@ a{
     float: right;
 }
 
+.pos_des{
+	position: absolute;
+	width: 60%;
+	height: 1%;
+	top: 20%;
+	left: 10%;
+}
+
+.des{
+	font-family: 'Aleo';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 96px;
+
+color: #FFFFFF;
+}
+
+.min_des{
+	position:absolute;
+	top: 250px;
+	left: 0px;
+	
+	font-family: 'Aleo';
+font-style: italic;
+font-weight: 700;
+font-size: 23px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
 .box{
     background: url(../img/Screenshot_13.png);
     height: 100vh;
@@ -99,8 +134,8 @@ a{
 }
 
 .search_wrap{
-	width: 1500px;
-	margin: 500px auto;
+	width: px;
+	margin: 150px auto; 
 }
 
 .search_wrap .search_box{
@@ -113,7 +148,7 @@ a{
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 90%;
 	height: 90%;
 	padding: 10px 20px;
 	border-radius: 3px;
@@ -135,7 +170,7 @@ a{
 	width: 228px;
 	height: 59px;
 	top: 25px;
-	right: -150px;
+	right: -50px;
 	border-radius: 13px;
 	color: rgb(255, 255, 255);
 	display: flex;
