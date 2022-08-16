@@ -14,7 +14,20 @@ box-shadow: 0px 4px 4px rgba(13, 96, 111, 0.5);
 	width: 20px;
 }
 .hd-p{
-	
+	position: absolute;
+width: 180px;
+height: 31px;
+left: 40px;
+top: 0px;
+
+	font-family: 'Magra';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
 }
 .dws {
 	position: absolute;
@@ -128,9 +141,8 @@ a{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	font-family: 'Red Hat Text';
+	font-family: 'Red Hat Text', sans-serif;
 }
-
 
 .search_wrap.search_wrap_5 .search_box .input{
 	padding-right: 145px;
