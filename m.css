@@ -409,3 +409,135 @@ label, a{ /*при наведении на стрелки или переклю�
 #controls label{ /*прозрачность стрелок при отводе курсора*/
 	transition: opacity 0.2s ease-out;
 }
+
+.p-1{
+	position: absolute;
+width: 335px;
+height: 53px;
+left: 552px;
+top: 2311px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #F2785C;
+
+}
+
+.ft_box{
+	position: absolute;
+	top: 280%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top;
+}
+
+.bg{
+	position: absolute;
+	top: 289%;
+	left: 10%;
+}
+
+.rect_4{
+	filter: drop-shadow(0px 4px 4px #0D606F);
+	border-radius: 16px;
+}
+.p1{
+	position: absolute;
+width: 760px;
+height: 184px;
+left: 430px;
+top: 70px;
+
+	font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #F2785C;
+}
+
+.rect_5{
+	position: absolute;
+width: 400px;
+height: 250px;
+left: 0px;
+top: 280px;
+
+	filter: drop-shadow(0px 4px 4px #0D606F);
+	border-radius: 16px;
+}
+.p2{
+	position: absolute;
+width: 760px;
+height: 184px;
+left: 430px;
+top: 350px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #F2785C;
+}
+
+.rect_6{
+	position: absolute;
+	width: 400px;
+	height: 250px;
+	left: 0px;
+	top: 560px;
+
+	filter: drop-shadow(0px 4px 4px #0D606F);
+	border-radius: 16px;
+}
+.p3{
+	position: absolute;
+width: 760px;
+height: 184px;
+left: 430px;
+top: 630px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #F2785C;
+}
+
+.rect_7{
+	position: absolute;
+width: 400px;
+height: 250px;
+left: 0px;
+top: 840px;
+
+	filter: drop-shadow(0px 4px 4px #0D606F);
+	border-radius: 16px;
+}
+.p4{
+	position: absolute;
+width: 760px;
+height: 184px;
+left: 430px;
+top: 910px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #F2785C;
+}
