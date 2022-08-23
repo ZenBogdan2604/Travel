@@ -210,7 +210,6 @@ color: #F2785C;
 	left: calc(20% - 100px/2);
 	top: calc(126.5% - 100px/2);
 }
-
 .rect_1{
 	position: absolute;
 	width: 100px;
@@ -221,11 +220,28 @@ color: #F2785C;
 	background: #F2785C;
 	border-radius: 16px;
 }
-
 .Vec_1{
 	position: absolute;
 	left: 12px;
 	top: 13px;
+}
+.fp1{
+	position: absolute;
+width: 270px;
+height: 24px;
+left: -90px;
+top: 100px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0D606F;
+
 }
 
 .frame_2{
@@ -235,7 +251,6 @@ color: #F2785C;
 	left: calc(50% - 100px/2);
 	top: calc(126.5% - 100px/2);
 }
-
 .rect_2{
 	position: absolute;
 	width: 100px;
@@ -246,11 +261,27 @@ color: #F2785C;
 	background: #F2785C;
 	border-radius: 16px;
 }
-
 .Vec_2{
 	position: absolute;
 	left: 10px;
 	top: 10px;
+}
+.fp2{
+	position: absolute;
+	width: 270px;
+	height: 24px;
+	left: -70px;
+	top: 100px;
+	
+	font-family: 'Aleo';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	/* identical to box height */
+	
+	
+	color: #0D606F;
 }
 
 .frame_3{
@@ -260,7 +291,6 @@ color: #F2785C;
 	left: calc(80% - 100px/2);
 	top: calc(126.5% - 100px/2);
 }
-
 .rect_3{
 	position: absolute;
 	width: 100px;
@@ -271,11 +301,46 @@ color: #F2785C;
 	background: #F2785C;
 	border-radius: 16px;
 }
-
 .Vec_3{
 	position: absolute;
 	left: 8px;
 	top: 13px;
+}
+.fp3{
+	position: absolute;
+	width: 330px;
+	height: 24px;
+	left: -120px;
+	top: 100px;
+	
+	font-family: 'Aleo';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	/* identical to box height */
+	
+	
+	color: #0D606F;
+}
+
+.sh{
+	position: absolute;
+width: 501px;
+height: 53px;
+left: 35%;
+top: 142%;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #F2785C;
+
 }
 
 #slider { /*положение слайдера*/
@@ -414,8 +479,8 @@ label, a{ /*при наведении на стрелки или переклю�
 	position: absolute;
 width: 335px;
 height: 53px;
-left: 552px;
-top: 2311px;
+left: calc(50% - 350px/2);
+top: 271%;
 
 font-family: 'Red Hat Text';
 font-style: normal;
@@ -463,6 +528,23 @@ line-height: 24px;
 
 color: #F2785C;
 }
+.h1{
+	position: absolute;
+width: 760px;
+height: 42px;
+left: 430px;
+top: -1px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #F2785C;
+}
 
 .rect_5{
 	position: absolute;
@@ -488,6 +570,23 @@ font-size: 20px;
 line-height: 24px;
 
 color: #F2785C;
+}
+.h2{
+	position: absolute;
+	width: 760px;
+	height: 42px;
+	left: 430px;
+	top: 276px;
+	
+	font-family: 'Aleo';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 35px;
+	line-height: 42px;
+	/* identical to box height */
+	
+	
+	color: #F2785C;
 }
 
 .rect_6{
@@ -515,6 +614,23 @@ line-height: 24px;
 
 color: #F2785C;
 }
+.h3{
+	position: absolute;
+	width: 760px;
+	height: 42px;
+	left: 430px;
+	top: 556px;
+	
+	font-family: 'Aleo';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 35px;
+	line-height: 42px;
+	/* identical to box height */
+	
+	
+	color: #F2785C;
+}
 
 .rect_7{
 	position: absolute;
@@ -540,4 +656,21 @@ font-size: 20px;
 line-height: 24px;
 
 color: #F2785C;
+}
+.h4{
+	position: absolute;
+	width: 760px;
+	height: 42px;
+	left: 430px;
+	top: 836px;
+	
+	font-family: 'Aleo';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 35px;
+	line-height: 42px;
+	/* identical to box height */
+	
+	
+	color: #F2785C;
 }
